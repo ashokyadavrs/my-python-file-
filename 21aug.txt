@@ -1,0 +1,8 @@
+-commands
+-python
+-ls -l
+-ls 
+-ls-al
+-man ls
+-man python
+-mkdir name
